@@ -5,11 +5,19 @@
       [Turtle Designs](https://github.com/Nitin-Pilkhwal/Turtle-designs)
       [Movie Recommendation](https://github.com/Nitin-Pilkhwal/movieRecommendationsystem)
 
-- 🌱 I’m currently learning *python tensorflow, pytorch, C++ DSA*
+
+
+- 🌱 I’m currently learning **python tensorflow, pytorch, C++ DSA**
+
+
 
 - 👨‍💻 All of my projects are available at [It's me](https://github.com/Nitin-Pilkhwal)
 
-- 💬 Ask me about *Front-end development*
+
+- 💬 Ask me about 
+      *Front-end development*, 
+      , *Python*
+      , *Problem Solving*
 
 - 📫 How to reach me *1nasty.np@gmail.com*
 
