@@ -18,9 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imnitin001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imnitin001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nitin pilkhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin pilkhwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Nitin-Pilkhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin pilkhwal" height="30" width="40" /></a>
 <a href="https://instagram.com/1_n_near_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_n_near_u" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nitin-pilkhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin-pilkhwal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/1nasty_np" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1nasty_np" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">📌Languages and Tools:</h3>
