@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [It's me](https://github.com/Nitin-Pilkhwal)
+- 👨‍💻 All of my projects are available at [It's me](https://github.com/Nitin-Pilkhwal?tab=repositories)
 
 
 - 💬 Ask me about 
