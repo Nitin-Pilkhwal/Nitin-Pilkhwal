@@ -14,6 +14,8 @@
       *Front-end development*, *Python*, *Problem Solving*
 
 - 📫 How to reach me *1nasty.np@gmail.com*
+<hr>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&" alt="nitin-pilkhwal" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
