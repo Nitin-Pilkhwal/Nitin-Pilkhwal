@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nitin Pilkhwal</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-- 🔭 I’m currently working on [Turtle Designs](https://github.com/Nitin-Pilkhwal/Turtle-designs)
+- 🔭 My repositories -->
+      [Turtle Designs](https://github.com/Nitin-Pilkhwal/Turtle-designs)
+      [Movie Recommendation](https://github.com/Nitin-Pilkhwal/movieRecommendationsystem)
 
 - 🌱 I’m currently learning *python tensorflow, pytorch, C++ DSA*
 
-- 👨‍💻 All of my projects are available at [////](////)
+- 👨‍💻 All of my projects are available at [It's me](https://github.com/Nitin-Pilkhwal)
 
 - 💬 Ask me about *Front-end development*
 
