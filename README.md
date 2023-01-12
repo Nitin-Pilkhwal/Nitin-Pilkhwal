@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Pilkhwal</h1>
 <h3 align="center">A passionate CSE undergrad from India</h3>
 
-- 🔭 All my repositories -->
-      [Turtle Designs](https://github.com/Nitin-Pilkhwal/Turtle-designs)
-      [Movie Recommendation](https://github.com/Nitin-Pilkhwal/movieRecommendationsystem)
-
+*Good thing happen to those who hustle. ^_^*
 
 - 🌱 I’m currently learning **python tensorflow, pytorch, C++ DSA**
 
@@ -16,7 +13,7 @@
 - 💬 Ask me about 
       *Front-end development*, *Python*, *Problem Solving*
 
-- 📫 How to reach me *1nasty.np@gmail.com* 📫
+- 📫 How to reach me *1nasty.np@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
