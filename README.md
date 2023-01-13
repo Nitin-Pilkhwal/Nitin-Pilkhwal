@@ -19,9 +19,9 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imnitin001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imnitin001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nitin-pilkhwal-41211024a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin pilkhwal" height="30" width="40" /></a>
-<a href="https://instagram.com/1_n_near_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_n_near_u" height="30" width="40" /></a>
+<a href="https://twitter.com/imnitin001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="imnitin001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nitin-pilkhwal-41211024a/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" alt="nitin pilkhwal" height="30" width="40" /></a>
+<a href="https://instagram.com/1_n_near_u" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" alt="1_n_near_u" height="30" width="40" /></a>
 
 </p>
 <hr>
@@ -39,8 +39,8 @@
 
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=cpp&theme=light" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=js&theme=light" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=python&theme=light" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=js&theme=light" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=html&theme=light" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=css&theme=light" alt="css3" width="40" height="40"/> </a>
 </p>
