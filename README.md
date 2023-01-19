@@ -16,8 +16,8 @@
 - 📫 How to reach me *1nasty.np@gmail.com*
 <hr>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&" alt="nitin-pilkhwal" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&locale=en" alt="nitin-pilkhwal" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&" alt="nitin-pilkhwal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&locale=en" alt="nitin-pilkhwal" />
 </p>
 
 <hr>
