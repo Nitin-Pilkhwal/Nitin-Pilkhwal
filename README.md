@@ -4,7 +4,7 @@
 *Good thing happen to those who hustle. ^_^*
 
 
-- 🌱 I’m currently learning **python tensorflow, pytorch, C++ DSA**
+- 🌱 I’m currently learning **ML Fundamentals, C++ DSA**
 
 
 - 👨‍💻 All of my projects are available at [It's me](https://github.com/Nitin-Pilkhwal?tab=repositories)
