@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitin Pilkhwal</h1>
+<h1 align="center">Hi 👋, I'm Nitin Pilkhwal 😎</h1>
 <h3 align="center">A passionate CSE undergrad from India</h3>
 
 *Good thing happen to those who hustle. ^_^*
