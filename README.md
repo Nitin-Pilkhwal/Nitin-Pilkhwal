@@ -19,6 +19,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical" alt="nitin-pilkhwal" />
 <img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&theme=radical&show_icons=true&locale=en" alt="nitin-pilkhwal" />
+<img src="[https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&theme=radical&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical)" alt="nitin-pilkhwal" />
 </p>
 
 <hr>
