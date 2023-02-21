@@ -16,12 +16,14 @@
 - 📫 How to reach me *1nasty.np@gmail.com*
 <hr>
 <h3 align="left">📈 My Github Activity </h3>
-## 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&theme=radical">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pilkhwal&langs_count=8&theme=radical&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical">
-
+<p>
+<img align="left", src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&theme=radical">
+<img align="right", src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical">
+</p>
+<p>
+<img align="left", src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pilkhwal&langs_count=8&theme=radical&layout=compact">
+<img align="right", src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical">
+</p>
 <hr>
 
 <p align="left">
