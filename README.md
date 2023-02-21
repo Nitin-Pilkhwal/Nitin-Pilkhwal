@@ -16,11 +16,10 @@
 - 📫 How to reach me *1nasty.np@gmail.com*
 <hr>
 <h3 align="left">📈 My Github Activity </h3>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical" alt="nitin-pilkhwal" />
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&theme=radical&show_icons=true&locale=en" alt="nitin-pilkhwal" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-pilkhwal&theme=radical&show_icons=true&locale=en&layout=compact" alt="nitin-pilkhwal" />
-</p>
+## 📊 GitHub Activity
+| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pilkhwal&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <hr>
 
