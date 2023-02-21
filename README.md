@@ -19,7 +19,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical" alt="nitin-pilkhwal" />
 <img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&theme=radical&show_icons=true&locale=en" alt="nitin-pilkhwal" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-pilkhwal&theme=radical&show_icons=true&locale=en&layout=compact" alt="nitin-pilkhwal" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-pilkhwal&theme=radical&show_icons=true&locale=en&layout=compact" alt="nitin-pilkhwal" />
 </p>
 
 <hr>
