@@ -16,15 +16,15 @@
 - 📫 How to reach me *1nasty.np@gmail.com*
 <hr>
 
-<p >
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical" alt="nitin-pilkhwal" />
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitin-Pilkhwal&show_icons=true&locale=en&layout=compact" alt="nitin-pilkhwal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&" alt="nitin-pilkhwal" />
+</p>
 
 <hr>
 
+<p align="left">
+
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
 <a href="https://twitter.com/imnitin001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="imnitin001" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/nitin-pilkhwal-41211024a/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" alt="nitin pilkhwal" height="40" width="40" /></a>
 <a href="https://instagram.com/1_n_near_u" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" alt="1_n_near_u" height="40" width="40" /></a>
@@ -65,3 +65,5 @@
 </p>
 
 <hr>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitin-Pilkhwal&show_icons=true&locale=en&layout=compact" alt="nitin-pilkhwal" /></p>
