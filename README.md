@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nitin Pilkhwal 😎</h1>
 <h3 align="center">A passionate CSE undergrad from India</h3>
 
-*Good thing happen to those who hustle. ^_^*
+<p>
 
+<img align="right" alt="coding" width="400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+*Good thing happen to those who hustle. ^_^*
 
 - 🌱 I’m currently learning **ML Fundamentals, C++ DSA**
 
@@ -12,8 +14,13 @@
 
 - 💬 Ask me about 
       *Front-end development*, *Python*, *Problem Solving*
+      
+- 💬 Fun fact
+      * I have a great sense of humor*
+
 
 - 📫 How to reach me *1nasty.np@gmail.com*
+</p>
 <hr>
 <h3 align="left">📈 My Github Activity </h3>
 <p>
@@ -22,7 +29,6 @@
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pilkhwal&langs_count=8&theme=radical&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical">
 </p>
 <hr>
 
