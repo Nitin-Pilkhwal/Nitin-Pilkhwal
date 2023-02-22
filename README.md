@@ -3,20 +3,20 @@
 
 <p>
 
-<img align="right" alt="coding" width="400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="400" height=300 src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 *Good thing happen to those who hustle. ^_^*
 
-- 🌱 I’m currently learning **ML Fundamentals, C++ DSA**
+- 🌱 I’m currently learning <b>**ML Fundamentals, C++ DSA**</b>
 
 
 - 👨‍💻 All of my projects are available at [It's me](https://github.com/Nitin-Pilkhwal?tab=repositories)
 
 
 - 💬 Ask me about 
-      *Front-end development*, *Python*, *Problem Solving*
+      <b>*Front-end development*, *Python*, *Problem Solving*</b>
       
 - 💬 Fun fact
-      * I have a great sense of humor*
+      <b>I have a great sense of humor</b>
 
 
 - 📫 How to reach me *1nasty.np@gmail.com*
@@ -25,10 +25,9 @@
 <h3 align="left">📈 My Github Activity </h3>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&theme=radical">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical">
-</p>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pilkhwal&langs_count=8&theme=radical&layout=compact">
+     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pilkhwal&langs_count=8&theme=radical&layout=compact">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical">
 </p>
 <hr>
 
