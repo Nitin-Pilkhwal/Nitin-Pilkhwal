@@ -13,7 +13,7 @@
 
 
 - 💬 Ask me about 
-      <b>*Front-end development*, *Python*, *Problem Solving*</b>
+      <b>*Competitive Programming*, *Machine Learning*, *Problem Solving*</b>
       
 - 💬 Fun fact
       <b>I have a great sense of humor</b>
