@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Pilkhwal 😎</h1>
-<h3 align="center">A passionate CSE undergrad from India</h3>
+<h2 align="center">A passionate CSE undergrad from India</h2>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=nitin-pilkhwal&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-pilkhwal" /><br>
