@@ -13,7 +13,7 @@ Good thing happen to those who hustle. ^_^
 
 
 - 💬 Ask me about 
-      <b>*Competitive Programming*, *Machine Learning*, *Problem Solving* , *Data Analytics* , *Data Visualization*</b>
+      <b>*Competitive Programming*, *Backend Development*, *Machine Learning*, *Problem Solving* , *Data Analytics* </b>
       
 - 💬 Fun fact
       <b>I have a great sense of humor</b>
