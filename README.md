@@ -25,9 +25,9 @@ Good thing happen to those who hustle. ^_^
 <h3 align="left">📈 My Github Activity </h3>
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitin-pilkhwal&show_icons=true&theme=radical"  display=block width=100% height=auto  alt="1" >
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pilkhwal&langs_count=8&theme=radical&layout=compact">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nitin-pilkhwal&show_icons=true&theme=radical"> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pilkhwal&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pilkhwal&langs_count=8&theme=radical&layout=compact">
 </p>
 <hr>
 
